@@ -1,0 +1,23 @@
+1.-Miről szól a tananyag?:
+-Bevezetés az elektronikába
+-Forrasztás/egyszerű áramkörök
+-NYÁK(nyomtatott áramkör)
+-Digitális áramkörök
+-Analóg áramkör(erősítő) készítése
+-AVR programozás, mikrokontrollerek megismerése
+
+2.-Milyen alkatrészeket tanultunk, ezek mire valók?
+-Ellenállás: Áramkorlátozása, feszültség elosztására.
+-Kondenzátor: Energia tárolás, kisülés ideje kihasználható.
+-Tranzisztor: kapcsolásra, vagy erősítésre használják
+-IC: működését nem akarjuk megérteni.
+-Félvezetők: LED, Zener, Dióda, stb...
+
+3.-Milyen áramköröket lehet elkészíteni ezekből?
+-Ellenállás: Egyszerű soros áramkör, Paralel áramkör, Feszültségosztó áramkör, Áramkorlátozó áramkör, RC szűrő.
+-Kondenzátor: Szűrő áramkörök(RC,LC), Töltés és kisütés(RC időzítő áramkör), Kapacitív tárolás, Osztó áramkörök(feszültség osztó).
+-Tranzisztor: Kapcsoló áramkör, Erősítő áramkör, Áramkör Diódaként, Keverő áramkör, Logikai áramkör, Hibrid áramkörök, Inverter áramkör.
+-IC: Logikai áramkörök, Feszültségszabályozó áramkörök, Oszcillátor és frekvencia generálás, Erősítő áramkörök, Szűrő áramkörök, Memória IC-k,
+Motorvezérlő IC-k, Időzítő IC-k.
+-Félvezetők: Kapcsoló áramkörök, Erősítő áramkörök, Oszcillátorok, Diódás egyenirányító áramkörök, LED áramkörök, Feszültség szabályozó áramkör,
+Szenzoros áramkörök, Védelmi áramkörök, Bipoláris Tranzisztor alapú áramkörök (BJT), Fényérzékelő áramkörök. 
