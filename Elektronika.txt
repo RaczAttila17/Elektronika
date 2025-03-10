@@ -21,3 +21,4 @@
 Motorvezérlő IC-k, Időzítő IC-k.
 -Félvezetők: Kapcsoló áramkörök, Erősítő áramkörök, Oszcillátorok, Diódás egyenirányító áramkörök, LED áramkörök, Feszültség szabályozó áramkör,
 Szenzoros áramkörök, Védelmi áramkörök, Bipoláris Tranzisztor alapú áramkörök (BJT), Fényérzékelő áramkörök. 
+https://raczattila17.github.io/Elektronika/Elektronika.txt
